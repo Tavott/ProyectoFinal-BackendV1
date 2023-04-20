@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "title": "Isembeck",
+    "description": "Lata 450cc",
+    "code": 33,
+    "price": 300,
+    "status": true,
+    "stock": 100,
+    "category": "Cervezas",
+    "thumbnails": [
+      "./imagenIsembeck"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Coca",
+    "description": "Lata 450cc",
+    "code": 75,
+    "price": 300,
+    "status": true,
+    "stock": 100,
+    "category": "Cervezas",
+    "thumbnails": [
+      "./imagenIsembeck"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Fanta",
+    "description": "Botella 1litro",
+    "code": 50,
+    "price": 100,
+    "status": true,
+    "stock": 1000,
+    "category": "Gaseosas",
+    "thumbnails": [
+      "./imagenFanta"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Fanta Zero",
+    "description": "Botella 1litro",
+    "code": 50,
+    "price": 100,
+    "status": true,
+    "stock": 1000,
+    "category": "Gaseosas",
+    "thumbnails": [
+      "./imagenFanta"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Coca Cola black",
+    "description": "Botella 2.25 lts.",
+    "price": 100,
+    "code": 80,
+    "status": true,
+    "stock": 1000,
+    "category": "Gaseosas",
+    "thumbnails": [
+      [
+        "./imagenFanta"
+      ]
+    ]
+  }
+]
